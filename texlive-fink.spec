@@ -6,7 +6,7 @@
 # catalog-version 2.2.1
 Name:		texlive-fink
 Version:	2.2.1
-Release:	1
+Release:	2
 Summary:	The LaTeX2e File Name Keeper
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fink
