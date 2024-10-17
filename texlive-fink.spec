@@ -3,7 +3,7 @@ Version:	24329
 Release:	2
 Summary:	The LaTeX2e File Name Keeper
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fink
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fink
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fink.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fink.doc.r%{version}.tar.xz
